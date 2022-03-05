@@ -1,0 +1,61 @@
+/*
+FONTS
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+ */
+html{
+  font-size: 10px;
+}
+#main {
+  text-align: center;
+  background-color: rgb(230, 255, 255);
+}
+#title{
+  font-family: 'Roboto', sans-serif;
+  padding: 0;
+}
+header {
+  background-color: rgb(200, 230, 255);
+  padding: 20px 0 20px 0px; 
+}
+h1 {
+  font-size: 4rem;
+}
+h3 {
+  font-size: 2rem;
+  font-family: 'Roboto', sans-serif;
+}
+h4{
+  font-size: 1.75rem;
+}
+p {
+  font-size: 1.5em;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+/* bulleted list---------------------------------*/
+ul{
+  text-align: left;
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  line-height: 
+}
+li{
+  font-size: 1.75em;
+  padding: 10px 0px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+/* -----------------------------------------------*/
+
+blockquote {
+  font-size: 1.5em;
+}
+#tribute-info {
+  background-color: rgb(200, 230, 255);
+  padding: 10px 0px;
+}
+#image {
+  max-width: 45%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
